@@ -1,0 +1,2 @@
+# ustozbek
+Ta'lim platformasi
